@@ -1,5 +1,0 @@
-category: Text
-requires: libgcc1 libpoppler-cpp0 libstdc++6
-sdesc: "Searches text in PDF files"
-ldesc: "Pdfgrep is a tool to search text in PDF files. It works similar 
-to grep."
