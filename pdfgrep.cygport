@@ -1,9 +1,9 @@
 NAME="pdfgrep"
-VERSION=1.3.2
+VERSION=1.4.1
 RELEASE=1
 CATEGORY="Text"
-SUMMARY="Searches text in PDF files"
-DESCRIPTION="Pdfgrep is a tool to search text in PDF files. It works similar
-to grep."
-HOMEPAGE="http://pdfgrep.sourceforge.net/"
-SRC_URI="mirror://sourceforge/pdfgrep/${NAME}-${VERSION}.tar.gz"
+SUMMARY="Command-line utility for searching text in PDFs"
+DESCRIPTION="Pdfgrep is a tool to search text in PDF files. It works much
+like grep, with one distinction: it operates on pages and not on lines."
+HOMEPAGE="https://pdfgrep.org/"
+SRC_URI="https://pdfgrep.org/download/pdfgrep-${VERSION}.tar.gz"
